@@ -1,0 +1,23 @@
+.headrow {
+	justify-content: center;
+}
+
+.monthpicker {
+	justify-content: right;
+}
+
+.filterrow {
+	justify-content: space-between;
+}
+
+.unitcol {
+	margin-left: 40px;
+}
+
+.range {
+	margin-right: 40px;
+}
+
+.rangelabel {
+	margin-bottom: 10px;
+}

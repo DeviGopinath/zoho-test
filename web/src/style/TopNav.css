@@ -1,0 +1,42 @@
+.headbox {
+	display: flex;
+	align-items: center;
+	font-size: 14px;
+	position: fixed;
+	height: 70px;
+	padding-left: 10px;
+	color: #ffffff;
+	background-color: #000000;
+	width: 100%;
+}
+
+.ulist {
+	padding-top: 10px;
+}
+
+.icon {
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.ulist {
+	display: flex;
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	margin-right: 70px;
+}
+
+.ulist .link {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.link:hover {
+	color: #ffffff;
+}

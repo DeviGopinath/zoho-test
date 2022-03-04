@@ -1,0 +1,72 @@
+.SignIn {
+    font-family: "Roboto", sans-serif;
+    height: 80vh;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.link {
+    text-decoration: none;
+    color: #000000;
+}
+
+.link:hover {
+    color: #000000;
+}
+
+.homerhs {
+    background-color: #000000;
+    height: 100%;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    align-items: center;
+}
+
+.textField {
+    color: white;
+}
+
+.signinDiv {
+    padding-left: 80px;
+    padding-top: 40%;
+}
+
+.input {
+    padding-top: 25px;
+}
+
+.button {
+    background-color: #ffff;
+    width: 47%;
+    height: 45px;
+    font-size: 16px;
+    color: #000000;
+    border: none;
+    margin-top: 60px;
+    margin-right: 80px;
+    font-weight: bold;
+}
+
+.signlink {
+    color: #ffff;
+    font-size: 0.8rem;
+}
+
+.signlink:hover {
+    color: #ffff;
+}
+
+.span {
+    color: #ffff;
+    font-size: 0.8rem;
+}
+
+.signlink:hover {
+    color: #ffff;
+}
+
+.span {
+    color: #ffff;
+    font-size: 0.8rem;
+}

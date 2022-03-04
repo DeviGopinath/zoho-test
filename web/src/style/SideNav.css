@@ -1,0 +1,23 @@
+.sidebox {
+	font-size: 14px;
+	padding-top: 40px;
+	color: #000000;
+	background-color: #ecf0f3;
+	height: calc(100vh - 69px);
+	top: 70px;
+	position: fixed;
+}
+.sidebox .list {
+	display: flex;
+	flex-direction: column;
+	list-style: none;
+}
+
+.list a {
+	text-decoration: none;
+}
+
+.link {
+	margin-bottom: 40px;
+	color: black;
+}

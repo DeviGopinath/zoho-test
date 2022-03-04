@@ -1,0 +1,62 @@
+.main {
+	width: 100%;
+	margin-top: 71px;
+}
+
+.mainbox{
+	margin-left: 200px;
+}
+
+.month {
+	margin-left: 370px;
+	margin-top: 0px;
+}
+
+.basedatahead {
+	margin-bottom: 30px;
+	padding-top: 30px;
+	max-width: 1200px;
+}
+
+.heading {
+	font-size: 24px;
+	font-weight: 600;
+	margin-left: 40px;
+}
+
+.titlerow {
+	margin-bottom: 20px;
+	padding-top: 40px;
+	font-size: 14px;
+	font-weight: 600;
+}
+
+.datarow {
+	margin-bottom: 20px;
+	font-size: 14px;
+}
+
+.titles {
+	color: #a1a1a1;
+	/* margin-left: 40px; */
+}
+input {
+	width: 100%;
+	height: 30px;
+	border: none;
+	background-color: #efefef;
+}
+
+.submitrow {
+	justify-content: right;
+	text-align: right;
+}
+
+.submitbtn {
+	border: none;
+	color: #ffffff;
+	background-color: #000000;
+	height: 30px;
+	width: 45%;
+	font-size: 14px;
+}
